@@ -1,3 +1,2 @@
-int_str = [ 18, 14, 10, 6, 2 ]
-for i in range (len(int_str)):
-    print(int_str[i])
+my_list = list(range(18,1,-4))
+print(my_list)
